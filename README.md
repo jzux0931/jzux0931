@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jesus Gonzalez | JZUX | (@jzux0931)
+# 👋 Hello, I'm Jesus Gonzalez | JZUX |
 
 🚀 Full-Stack Developer in progress | Python • Linux • Git  
 🛡 Currently completing a Master’s in Full-Stack Development with a focus on Cybersecurity  
