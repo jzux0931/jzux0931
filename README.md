@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jesus Gonzalez | JZUX |
+# | JZUX |
 
 🚀 Full-Stack Developer in progress | Python • Linux • Git  
 🛡 Currently completing a Master’s in Full-Stack Development with a focus on Cybersecurity  
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I’m a developer in continuous growth, currently completing a **Master’s in Full-Stack Development**
+I’m Jesus Gonzalez, a developer in continuous growth, currently completing a **Master’s in Full-Stack Development**
 with specialization in **Cybersecurity**.
 
 My focus is not on theory alone, but on **building, breaking, and improving systems**:
@@ -22,6 +22,7 @@ and automating processes that reduce risk, errors, and manual work.
 - **Programming**
   - Python (secure coding practices, OOP)
   - Bash (system automation)
+  - HTML, CSS (Starting JS soon)
 
 - **Security & Reliability**
   - Input validation
@@ -44,7 +45,7 @@ and automating processes that reduce risk, errors, and manual work.
 
 - Security-oriented tools that analyze users, permissions, and risk scenarios  
 - Automation systems for data cleaning, validation, and structured reporting  
-- Algorithmic solutions focused on clarity, correctness, and scalability  
+- Algorithmic solutions focused on clarity, correctness, and scalability
 
 ---
 
@@ -54,7 +55,8 @@ and automating processes that reduce risk, errors, and manual work.
 - Linux internals: permissions, processes, system behavior  
 - Git workflows: branching, merges, and conflict resolution  
 - Automation for security, HR, and finance-related domains  
-- Writing code that is testable, maintainable, and resilient  
+- Writing code that is testable, maintainable, and resilient
+- Currently building web sites and projects with HTML and CSS.  
 
 ---
 
