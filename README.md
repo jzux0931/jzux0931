@@ -1,71 +1,21 @@
-# | JZUX |
+# Hi, I'm Jesús González 👋
 
-🚀 Full-Stack Developer in progress | Python • Linux • Git  
-🛡 Currently completing a Master’s in Full-Stack Development with a focus on Cybersecurity  
-🧠 Building production-ready foundations through hands-on projects and system-level learning
+**Full-stack developer in training · JavaScript · Python · Cybersecurity**
 
----
+I'm currently completing a master's in Full-Stack Development with a focus on Cybersecurity. I build interactive web interfaces and Python tools that make data and security workflows easier to understand and use. I care about readable code, responsive layouts, and reliable behavior.
 
-## About Me
+## Featured projects
 
-I’m Jesus Gonzalez, a developer in continuous growth, currently completing a **Master’s in Full-Stack Development**
-with specialization in **Cybersecurity**.
+- **[Pokédex Explorer](https://github.com/jzux0931/js-final-project)** — An interactive app built with vanilla JavaScript and the PokeAPI. Browse and filter Pokémon, save favorites in `localStorage`, and compare two Pokémon side by side. Built with ES modules, Vite, and responsive, keyboard-friendly controls.
+- **[ConquerBlocks Homework](https://github.com/jzux0931/css_hw_5_html_project)** — A responsive, eight-page website with reusable SCSS, navigation submenus, and layouts for courses, articles, registration, and more.
+- **[Security Tool](https://github.com/jzux0931/security-tool)** — A Python CLI that checks account data against security rules, produces JSON reports, and tailors recommendations for security, IT, or management audiences. Core behavior is covered with `pytest`.
+- **[Security Ingestion Lab](https://github.com/jzux0931/security-ingestion-lab)** — A Python pipeline that ingests messy CSV data, normalizes and validates records, and reports data quality with clear rejection reasons.
+- **[Maze Solver](https://github.com/jzux0931/maze-solver-python)** — A command-line project comparing DFS, BFS, and alternative paths, with execution-time and explored-node metrics.
 
-My focus is not on theory alone, but on **building, breaking, and improving systems**:
-understanding how software behaves in real environments, writing clean and maintainable code,
-and automating processes that reduce risk, errors, and manual work.
+## Tools and practices
 
----
+- **Web:** HTML, CSS, SCSS, JavaScript, responsive design, accessibility basics, Vite
+- **Python:** CLI applications, CSV/JSON processing, automation, `pytest`
+- **Workflow:** Git, Linux, modular code, input validation, and error handling
 
-## Tech Stack
-
-- **Programming**
-  - Python (secure coding practices, OOP)
-  - Bash (system automation)
-  - HTML, CSS (Starting JS soon)
-
-- **Security & Reliability**
-  - Input validation
-  - Exception-driven control flow
-  - Risk-oriented logic design
-
-- **Systems**
-  - Linux user & permission models
-  - Process management
-  - Virtualized environments (WSL, VirtualBox)
-
-- **Development Practices**
-  - Git-based workflows
-  - Test-driven validation (Pytest)
-  - Maintainable and auditable code
-
----
-
-## What I Build
-
-- Security-oriented tools that analyze users, permissions, and risk scenarios  
-- Automation systems for data cleaning, validation, and structured reporting  
-- Algorithmic solutions focused on clarity, correctness, and scalability
-
----
-
-## Currently Learning
-
-- Advanced Python: exceptions, abstractions, design patterns  
-- Linux internals: permissions, processes, system behavior  
-- Git workflows: branching, merges, and conflict resolution  
-- Automation for security, HR, and finance-related domains  
-- Writing code that is testable, maintainable, and resilient
-- Currently building web sites and projects with HTML and CSS.  
-
----
-
-## Mindset
-
-I prioritize long-term skill building over shortcuts,
-deep understanding over surface-level knowledge,
-and systems that scale over one-off solutions.
-
----
-
-📫 Explore my repositories to follow my learning and evolution.
+I'm continuing to grow my full-stack skills through practical projects. You can see more of my interface work in my [portfolio exercise](https://github.com/jzux0931/css_hw_4_Portfolio) and browse [all my repositories](https://github.com/jzux0931?tab=repositories).
